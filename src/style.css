@@ -3,3 +3,26 @@
 body{
     background: white;
 }
+/* * {
+	border: 1px dashed red;
+	min-height: 10px;
+} */
+
+.main{
+	height:100vh;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+.content{
+	display:block;
+}
+.ex{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+p{
+	font-weight: bold;
+	font-size: xx-large;
+}
